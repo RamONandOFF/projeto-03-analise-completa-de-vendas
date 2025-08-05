@@ -38,7 +38,7 @@ Queremos entender a quantidade de dados disponíveis.
 A diretoria quer entender como está o desempenho das vendas nos Estados Unidos, um dos principais mercados da Contoso.
 
 📷 Resultado:
-![Consulta 2](imagens/consulta2_media_usa.jpg)
+![Consulta 2](imagens/consulta2_media_usa.JPG)
 
 ---
 
@@ -46,7 +46,7 @@ A diretoria quer entender como está o desempenho das vendas nos Estados Unidos,
 Produtos com maior volume de vendas, agrupados por categoria, usando ranking interno (`DENSE_RANK`).
 
 📷 Resultado:
-![Consulta 3](imagens/consulta3_top10_produtos_categoria.jpg)
+![Consulta 3](imagens/consulta3_top10_produtos_categoria.JPG)
 
 ---
 
@@ -54,7 +54,7 @@ Produtos com maior volume de vendas, agrupados por categoria, usando ranking int
 Entender como as vendas se comportaram mês a mês ao longo dos anos.
 
 📷 Resultado:
-![Consulta 4](imagens/consulta4_vendas_mensais.jpg)
+![Consulta 4](imagens/consulta4_vendas_mensais.JPG)
 
 ---
 
@@ -62,7 +62,7 @@ Entender como as vendas se comportaram mês a mês ao longo dos anos.
 A diretoria deseja saber quais categorias e subcategorias geram mais receita dentro do grupo dos produtos mais vendidos. Essa análise complementa o Top 10 mostrando seu impacto no faturamento.
 
 📷 Resultado:
-![Consulta 5](imagens/consulta5_receita_top10.jpg)
+![Consulta 5](imagens/consulta5_receita_top10.JPG)
 
 ---
 
