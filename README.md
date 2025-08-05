@@ -30,7 +30,7 @@ Eles contrataram um analista de dados (Eu) para explorar o banco de dados "Conto
 Queremos entender a quantidade de dados disponíveis.
 
 📷 Resultado:
-![Consulta 1](imagens/consulta1_total_registros.jpg)
+![Consulta 1](imagens/consulta1_total_registros.JPG)
 
 ---
 
